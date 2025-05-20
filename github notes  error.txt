@@ -1,0 +1,5 @@
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+fatal: not a git repository (or any of the parent directories): .git
