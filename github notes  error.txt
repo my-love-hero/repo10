@@ -18,3 +18,8 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 HEAD detached at c4ef85d => when you go older version,
 i want to return to the latest version how it, 
 # git checkout main
+
+
+
+
+#what after
